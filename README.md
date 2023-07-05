@@ -1,4 +1,4 @@
-## "Olá e bem-vindo ao meu perfil! Aqui você encontrará o universo do desenvolvedor Ryan." 😁
+## "Olá e bem-vindo ao meu perfil! Desenvolvedor Ryan." 😁
 
  <div>
    <a href="https://github.com/RyanDev">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Me siga em minhas Redes Sociais!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,6 +22,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/RyanDev/RyanDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ryan092x/Ryan092x/blob/output/github-contribution-grid-snake.svg)
 
 </div>
